@@ -1,5 +1,4 @@
-Perfect! Here's your **tailored `README.md`** for the new **React + Tailwind CSS version** of your project hosted at:
-🔗 `https://github.com/abressiddique/WasteUi.git`
+
 
 # ♻️ Wewantwaste Skip Selector Redesign – React + Tailwind CSS
 
