@@ -23,7 +23,7 @@ This project is a **complete redesign** of the *"Choose Your Skip Size"* page fr
 
 !\[Mobile View]![image](https://github.com/user-attachments/assets/32917181-1c94-41d7-a98e-5391cff35a25)
 
-*(Replace the image links above with actual uploaded image paths in your repo under `/assets` or upload via GitHub's interface.)*
+
 
 ---
 
