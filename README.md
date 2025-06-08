@@ -8,9 +8,8 @@ Thank you sincerely for giving me the opportunity to demonstrate my frontend dev
 
 This project is a **complete redesign** of the *"Choose Your Skip Size"* page from [wewantwaste.co.uk](https://wewantwaste.co.uk), developed using **React.js** and **Tailwind CSS**. The goal was to create a visually refreshed, responsive, and accessible interface while preserving all original functionality.
 
-
-
-> 🔗 **GitHub Repository**: [https://github.com/abressiddique/WasteUi](https://github.com/abressiddique/WasteUi)
+> 🔗 **Live Demo**: [https://abressiddique.github.io/wasteUiproject/](https://abressiddique.github.io/wasteUiproject/)
+> 🧾 **GitHub Repository**: [https://github.com/abressiddique/WasteUi](https://github.com/abressiddique/WasteUi)
 
 ---
 
@@ -18,13 +17,11 @@ This project is a **complete redesign** of the *"Choose Your Skip Size"* page fr
 
 ### 🖥️ Desktop View
 
-![Desktop View]![image](https://github.com/user-attachments/assets/5008eba4-1882-4160-886b-21cbab206dfc)
-
+!\[Desktop View]![image](https://github.com/user-attachments/assets/5008eba4-1882-4160-886b-21cbab206dfc)
 
 ### 📱 Mobile View
 
-![Mobile View]![image](https://github.com/user-attachments/assets/32917181-1c94-41d7-a98e-5391cff35a25)
-
+!\[Mobile View]![image](https://github.com/user-attachments/assets/32917181-1c94-41d7-a98e-5391cff35a25)
 
 *(Replace the image links above with actual uploaded image paths in your repo under `/assets` or upload via GitHub's interface.)*
 
@@ -34,13 +31,13 @@ This project is a **complete redesign** of the *"Choose Your Skip Size"* page fr
 
 Redesign the "Choose Your Skip Size" page to:
 
-- Look and feel **completely different** from the original version
-- Maintain **full functionality**
-- Use real-time skip data from the following API:
+* Look and feel **completely different** from the original version
+* Maintain **full functionality**
+* Use real-time skip data from the following API:
 
 ```txt
 https://app.wewantwaste.co.uk/api/skips/by-location?postcode=NR32&area=Lowestoft
-````
+```
 
 ---
 
@@ -111,4 +108,5 @@ I truly enjoyed bringing new life to the existing skip selection page, and I’m
 With gratitude,
 **Abres Siddique**
 
+---
 
