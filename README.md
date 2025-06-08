@@ -17,11 +17,11 @@ This project is a **complete redesign** of the *"Choose Your Skip Size"* page fr
 
 ### 🖥️ Desktop View
 
-!\[Desktop View]![image](https://github.com/user-attachments/assets/5008eba4-1882-4160-886b-21cbab206dfc)
+![image](https://github.com/user-attachments/assets/5008eba4-1882-4160-886b-21cbab206dfc)
 
 ### 📱 Mobile View
 
-!\[Mobile View]![image](https://github.com/user-attachments/assets/32917181-1c94-41d7-a98e-5391cff35a25)
+![image](https://github.com/user-attachments/assets/32917181-1c94-41d7-a98e-5391cff35a25)
 
 
 
